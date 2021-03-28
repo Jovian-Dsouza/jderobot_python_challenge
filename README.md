@@ -5,6 +5,9 @@
 ## Description
 Conway's Game of Life implementation in Python. 
 
+## YouTube Video
+[![Game of Life in Python](https://img.youtube.com/vi/nXyL7dOd5yM/0.jpg)](https://youtu.be/nXyL7dOd5yM)
+
 ## Requirements
 Test on : Python 3.6.9 using standard libraries
 
